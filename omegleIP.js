@@ -1,7 +1,7 @@
 /*
-open omegle
-click ctrl + shift + i
-paste code in consloe
+open omegle website 
+press ctrl + shift + i
+paste code in console
 *** Make Sure you update your token from ipinfo.io website account token
 */
 window.oRTCPeerConnection  = window.oRTCPeerConnection || window.RTCPeerConnection
